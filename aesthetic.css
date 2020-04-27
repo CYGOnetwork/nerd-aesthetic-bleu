@@ -1,4 +1,7 @@
 
+.text-center.footer-nav {
+    display: none; 
+}
 .colorDefault {
     color: #ededed;
 }
