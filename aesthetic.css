@@ -120,7 +120,7 @@ h4 {
     padding: 10px;
 }
 .content {
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     font-size: 16px;
     line-height: 22px;
     color: #222;
@@ -511,7 +511,7 @@ form.dropdown-controls {
 }
 #space-menu-spaces strong {
 	font-size: 18px;
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
 }
 #space-menu-spaces p {
 	color: #7a7a7a;
@@ -556,7 +556,7 @@ form.dropdown-controls {
     text-align: center;
     min-height: 28px;
     line-height: 4px;
-    font-family: "PT Sans";
+    ffont-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
 }
 #topbar-second .nav>li>a:hover, #topbar-second .nav>li>a:active, #topbar-second .nav>li>a:focus {
     color: #000;
@@ -920,7 +920,7 @@ background-color: #1e2429;
     overflow: hidden;
     white-space: nowrap;
 	padding: 0 0 0 10px;
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     text-overflow: ellipsis;
     text-shadow: 0 0 10px #333;
 }
@@ -939,7 +939,7 @@ background-color: #1e2429;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-family: "PT Sans";
+   font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     text-shadow: 0 0 10px #333;
 }
 .panel-profile .panel-profile-header .profile-user-photo-container {
@@ -991,7 +991,7 @@ background-color: #1e2429;
 #user-statistics-panel .panel-body,
 #spaces-statistics-panel .panel-body strong,
 #user-statistics-panel .panel-body strong {
-	font-family: "PT Sans";
+	font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
 	font-weight: normal;
 	font-size: 16px;
 }
@@ -1508,14 +1508,14 @@ label {
 label.control-label {
     font-weight: normal;
     font-size: 20px;
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
 }
 div.required label:after {
     content: "*";
 }
 .copyright {
     text-align: right;
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     padding: 0 0 20px;
     text-transform: lowercase;
 	cursor: default;
@@ -3387,7 +3387,7 @@ ul.tag_input {
 }
 
 .wiki-content {
-    font-family: "PT Sans";
+    font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     font-size: 16px;
     line-height: 22px;
     color: #222;
