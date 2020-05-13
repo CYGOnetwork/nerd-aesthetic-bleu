@@ -124,9 +124,9 @@ h4 {
     font-size: 16px;
     line-height: 22px;
     color: #222;
-    background-color: #f2f2f2;
+    background-color: #1d2024;
     padding: 20px;
-    border: 2px solid #919191;
+    border: 1px solid #23748f;
     border-radius: 4px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -174,7 +174,7 @@ input[type=text], input[type=password], input[type=select] {
 }
 .login-container h1, .login-container h2 {
 	text-shadow: 0 0 10px rgba(0,0,0,0.2);
-    font-family: "Ubuntu Condensed";
+    font-family: Helvetica Neue, Helvetica,Arial, Ubuntu, sans-serif;
     color: #fff !important;
     font-size: 40px;
 	cursor: default;
@@ -3408,10 +3408,14 @@ ul.tag_input {
     -webkit-border-radius: 3%;
     -moz-border-radius: 3%;
     border-radius: 3%;
+    position: absolute;
+    top: 5px;
+    left: 0px;
 }
 
 legend {
-    color: #337ab7
+    color: #23748f;
+	text-decoration: bold
 }
 
 
