@@ -1105,9 +1105,9 @@ background-color: #1e2429;
     font-size: 11px;
 }
 .img-rounded {
-    -webkit-border-radius: 50%;
+    /**-webkit-border-radius: 50%;
     -moz-border-radius: 50%;
-    border-radius: 50%;
+    border-radius: 50%;**/
 }
 .nav-pills .dropdown-menu, .nav-tabs .dropdown-menu, .account .dropdown-menu {
     background-color: #fff;
