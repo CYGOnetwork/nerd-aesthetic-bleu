@@ -123,7 +123,7 @@ h4 {
     font-family: Helvetica Neue, Helvetica, Arial, Ubuntu, sans-serif;
     font-size: 16px;
     line-height: 22px;
-    color: #222;
+    color: #fff;
     background-color: #1d2024;
     padding: 20px;
     border: 1px solid #23748f;
@@ -718,7 +718,7 @@ form.dropdown-controls {
     padding: 0 0 0 10px;
 }
 .media .content a {
-    color: rgb(173, 39, 8);
+    color: rgb(34, 116, 143);
 }
 .media .content a:hover {
 	opacity: 0.8;
@@ -866,7 +866,7 @@ background-color: #1e2429;
 }
 .panel-body strong {
 	font-weight: bold;
-    color: rgb(173, 39, 8);
+    color: #23748f;
     font-size: 15px;
     font-family: Open Sans, Arial, Helvetica, Ubuntu, sans-serif;
 }
@@ -3415,7 +3415,8 @@ ul.tag_input {
 
 legend {
     color: #23748f;
-	text-decoration: bold
+	text-decoration: bold;
+	border-bottom: 0.5px solid #555a60;
 }
 
 
