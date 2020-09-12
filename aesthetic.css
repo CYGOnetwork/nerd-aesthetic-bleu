@@ -899,7 +899,7 @@ background-color: #1e2429;
 	border-radius: 0 0 1px 1px;
 }
 .panel-profile .panel-profile-header .img-profile-data h1 {
-    font-family: "Ubuntu Condensed";
+    font-family: Ubuntu, Open Sans, Arial, Helvetica, sans-serif;
     text-shadow: 0 0 10px #333;
     text-transform: uppercase;
     font-weight: normal;
